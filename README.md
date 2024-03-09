@@ -3,15 +3,15 @@ This Python script scrapes job listings from the Ghana Yellow Pages website usin
 
 ## Installation
 1. Clone this repository to your local machine:
-```bash
+```python
   git clone https://github.com/MinervaAnkrah/Web-Scrapping-with-BeautifulSoup.git
 ```
 2. Navigate to the project directory:
-```bash
+```python
   cd Web-Scrapping-with-BeautifulSoup
 ```
 3. Install the required dependencies using pip:
-```bash
+```python
   pip install -r requirements.txt
 ```
 

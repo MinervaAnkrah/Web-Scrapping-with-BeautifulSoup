@@ -18,7 +18,7 @@ This Python script scrapes job listings from the Ghana Yellow Pages website usin
 ## Usage
 1. Run the BeautifulSoup.py script:
 ```python
-python job_scraper.py
+python BeautifulSoup.py
 ```
 2. The script will scrape the job listings from the Ghana Yellow Pages website and create a ```job_listing.csv``` file in the project directory.
 
